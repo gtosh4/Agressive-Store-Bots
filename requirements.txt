@@ -1,0 +1,4 @@
+beautifulsoup4
+selenium
+webdriver-manager==3.4.0
+twilio
